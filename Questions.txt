@@ -24,7 +24,7 @@ Additionally, a software process model enables better communication and collabor
 
 
 
-Owusu Asamoah Prince
+
 Compare and contrast the Waterfall and Agile software process models. 
 What are the key differences between the two models and 
 what are the benefits and drawbacks of each?
@@ -67,7 +67,7 @@ the level of uncertainty involved, and the customer/stakeholder involvement. Wat
 
 
 
-Owusu Asamoah Prince
+
  What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
